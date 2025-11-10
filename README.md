@@ -1,14 +1,15 @@
 # Hi there 👋, I'm Mahmoud Bahnasy
 
-### Languages & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+## 🧠 Skills & Tools
 
----
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="70" height="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Power_BI_Logo.svg" alt="Power BI" width="70" height="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel" width="70" height="70"/>
+</p>
 
-### GitHub Stats
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudbahnasy&show_icons=true&theme=radical)
