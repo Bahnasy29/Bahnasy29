@@ -1,5 +1,14 @@
 # Hi there 👋, I'm Mahmoud Bahnasy
 
+I'm a passionate **Data & AI enthusiast** with a focus on **Data Analysis, Machine Learning, and Business Intelligence**.  
+I love turning raw data into actionable insights and building projects that solve real-world problems.
+
+- 🎯 **Goal:** Build impactful data-driven solutions and grow as a data scientist / AI practitioner.  
+- 💻 **Tech Stack:** Python, SQL, Excel, Power BI, Scikit-Learn, TensorFlow  
+- 📈 **Interests:** Data Analysis, Machine Learning, AI, Data Visualization, E-commerce Analytics   
+
+I'm open to **collaborations, freelance projects, and learning opportunities** in data science and AI.  
+
 ## 🧠 Skills & Tools
 
 <p align="center">
